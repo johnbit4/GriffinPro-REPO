@@ -1,2 +1,2 @@
 # GriffinPro-REPO
-New GriffinPro repo ideas
+New GriffinPro repo ideas. Starting to figure out what I'm doing.
