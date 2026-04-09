@@ -1,2 +1,3 @@
 # GriffinPro-REPO
 New GriffinPro repo ideas. Starting to figure out what I'm doing.
+Trying to get my act together
